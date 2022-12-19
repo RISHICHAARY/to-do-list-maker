@@ -1,7 +1,33 @@
+body{
+  background-image:url("C:/Users/RISHI/OneDrive/WEB-DEVELOPEMENT/React/to_do_list/public/Bg.png");
+  background-size:cover;
+  background-repeat:no-repeat;
+  font-family: 'Noto Sans', sans-serif;}
+
 .App {
   text-align: center;
+  border-radius:0.3em;
+  padding:0;
 }
 
+.Main_ip{
+  padding:1em;
+  margin:1em 0;
+}
+
+.Title{
+  margin:0;
+  padding:0;
+  font-family: 'Anton', sans-serif;
+  font-size:5em;
+}
+
+.Tp{
+  margin:0;
+  padding:0;
+  display:inline;
+  margin-right:0.5em;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +61,68 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.output_table{
+  margin-left: auto;
+  margin-right: auto;
+  font-size:2em;
+  border-collapse: collapse;
+}
+
+.delete_button{
+  border:none;
+  outline:none;
+  font-size:0.8em;
+  background-color:red;
+  border-radius:0.2em;
+}
+
+.add_button{
+  border:none;
+  outline:none;
+  font-size:1em;
+  color:antiquewhite;
+  background-color:#06113C;
+  border-radius:0.2em;
+  padding:0.8em;
+}
+
+.Mainp{
+  display: inline;
+  margin-right:0.3em;
+}
+
+.main_input{
+  font-size:1.5em;
+  margin-right:1em;
+}
+
+.main_hp{
+  font-size:2.5em;
+  margin:0;
+  margin-bottom:0.5em;
+  text-decoration: underline 0.1em solid;
+  text-underline-position: below;
+}
+
+.da_p{
+  font-size:2em;
+  padding:0.1em;
+  margin: 0;
+}
+
+.del_all{
+  border:none;
+  outline:none;
+  margin:2em 0;
+  border-radius:0.2em;
+  background-color:red;
+}
+
+tr{
+  border:solid 0.1em;
+  margin:0.2em 0;
+  border-radius:0.5em;
+  background-color: rgb(0,0,0,0.1);
 }
