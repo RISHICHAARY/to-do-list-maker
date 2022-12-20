@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/to-do-list-maker/static/css/main.1a9e7702.css",
+    "main.js": "/to-do-list-maker/static/js/main.878d9d9b.js",
+    "static/js/787.34d05ddd.chunk.js": "/to-do-list-maker/static/js/787.34d05ddd.chunk.js",
+    "static/media/Bg.png": "/to-do-list-maker/static/media/Bg.56f3322b3bcfcaa65c6d.png",
+    "index.html": "/to-do-list-maker/index.html",
+    "main.1a9e7702.css.map": "/to-do-list-maker/static/css/main.1a9e7702.css.map",
+    "main.878d9d9b.js.map": "/to-do-list-maker/static/js/main.878d9d9b.js.map",
+    "787.34d05ddd.chunk.js.map": "/to-do-list-maker/static/js/787.34d05ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9e7702.css",
+    "static/js/main.878d9d9b.js"
+  ]
+}
